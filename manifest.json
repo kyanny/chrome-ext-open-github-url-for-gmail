@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Open GitHub URL for Gmail",
+  "description": "Open `view it on GitHub` link of notification email on Gmail.",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/*"],
+      "js": ["myscript.js"]
+    }
+  ],
+  "permissions": [
+    "https://mail.google.com/*"
+  ]
+}
