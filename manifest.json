@@ -3,7 +3,7 @@
 
   "name": "Open GitHub URL for Gmail",
   "description": "Open `view it on GitHub` link of notification email on Gmail.",
-  "version": "1.0",
+  "version": "1.1",
 
   "content_scripts": [
     {
