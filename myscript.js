@@ -1,5 +1,5 @@
 window.addEventListener('keyup', function(e) {
-  if (e.key === "v") {
+  if (e.key === "v" || e.key === "V") {
     Array.prototype.slice.call(
       document.querySelectorAll('a')
     ).some(function(el) {
