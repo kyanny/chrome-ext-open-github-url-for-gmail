@@ -2,6 +2,8 @@
 
 Open `view it on GitHub` link of notification email on Gmail.
 
+# Now you can install script via Greasy Fork! https://greasyfork.org/ja/scripts/34099-open-github-url-for-gmail
+
 ## Setup
 
 ### 1. Enable `Custom keyboard shortcuts` at Gmail Labs.
